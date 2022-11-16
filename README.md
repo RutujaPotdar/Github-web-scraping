@@ -1,5 +1,5 @@
 # Github-web-scraping
-Github has various repositories. I scraped some of the pages from github to extract information of these repo and stored in csv file.
+Github has various repositories. I scraped some of the pages from github to extract information of these repo.
 
 It contains information :
 
